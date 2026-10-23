@@ -7252,7 +7252,6 @@ void actualizaDDNS()
 //    {
 //    printlnS(conectado);
 ////    P(host)="Host: www.google.com";
-////    EthClient.println("GET http://USUARIO:PASSWORD@dynupdate.no-ip.com/nic/update?hostname=elconucom.zapto.org HTTP/1.1");
 //    EthClient.println("GET dynupdate.no-ip.com/nic/update?hostname=elconucom.zapto.org HTTP/1.1");
 //    EthClient.println("Host: dynupdate.no-ip.com");
 ////    EthClient.println("Connection: close");
